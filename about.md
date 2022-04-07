@@ -12,4 +12,4 @@ I like Indian food and long naps on sunny fields.
 
 ### Contact me
 
-[rgarg7@ucla.edu](mailto:rgarg7@ucla.edu)
+[fake@email.com](mailto:fake@email.com)
