@@ -3,14 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
-Hello I am Puppycat, PhD. I am a Python master.
+Hello I am Rashi, a junior statistics major at UCLA. 
 
 ## More information
 
-My favorite food is spinach. I like to SCREAM when I don't get my way but that's okay because I'm cute.
+I like Indian food and long naps on sunny fields. 
 
-![](/images/puppycat.jpg){:height="300px"}
 
 ### Contact me
 
-[puppycat@puppycat.org](mailto:puppycat@puppycat.org)
+[rgarg7@ucla.edu](mailto:rgarg7@ucla.edu)
